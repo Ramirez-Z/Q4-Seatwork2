@@ -1,0 +1,60 @@
+.snoopy-pic{
+	margin: auto;
+	border: solid;
+	border-radius: 15px;
+}
+
+.description{
+	width: 635px;
+	margin-top: 30px;
+	border: dashed;
+	border-width: 5px;
+	border-radius: 10px;
+	font-family: caveat;
+	font-weight: 800;
+	font-size: 25px;
+
+}
+
+.h4{
+	width: 540px;
+	font-family: caveat;
+	font-weight: 800;
+	font-size: 25px;
+}
+
+.text-output{
+	font-family: caveat;
+	font-weight: bold;
+	font-size: 50px;
+	background-color: white;
+	margin: auto;
+	width: 735px;
+	border-radius: 15px;
+}
+
+.plus, .diff, .comp, .multy{
+	color: white;
+	font-size: 20px;
+	border-radius: 10px;
+	width: 350px;
+	padding: 5px;
+}
+
+.plus, .comp {margin-right: 20px;}
+.plus {background-color: #347F38;}
+.multy {background-color: #34567F;}
+.comp {background-color: #B01717;}
+.diff {background-color: #C7791A;}
+
+body{
+	background-color: #65CDBA;
+	background-image: url();
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+button {
+	font-family: reddit mono;
+	font-size: 30px;
+}
